@@ -1,46 +1,71 @@
-# Ali Raza Afzal — Author Website
+# دَمِ وارث | Dam-e-Waris
 
-A static HTML/CSS website (no JavaScript, no frameworks) for author Ali Raza Afzal, featuring his novel **Dam-e-Waris (دَمِ وارث)**.
+> **A story of family, inheritance, secrets, and the wounds that travel from one generation to the next.**
 
-## Folder structure
+**Dam-e-Waris** is the debut novel of Pakistani writer **Ali Raza Afzal**. It is a fast-paced family drama, thriller, romance, and psychological fiction that unfolds across **two timelines, past and present**, gradually connecting the lives, choices, and secrets of its characters.
 
-```
-index.html              → Homepage
-dam-e-waris.html         → Dedicated novel page
-css/
-  style.css              → All styling (colors, type, layout)
-images/
-  author.jpg              → Author portrait (hero + about section)
-  dam-e-waris-cover.jpg   → Novel cover (homepage + novel page)
-  review-01.jpg … review-06.jpg → Reader review screenshots
-pdf/
-  dam-e-waris.pdf          → The novel PDF, embedded in the reader on dam-e-waris.html
-```
+## 📖 About the Novel
 
-## Replacing the placeholder assets
+At its heart, *Dam-e-Waris* is a story about family and the things people inherit beyond names and property.
 
-Every image and the PDF above are currently soft pastel **placeholder files** so the site
-renders correctly right away. To finish the site, simply **overwrite each file with your
-real asset using the exact same filename** — no HTML or CSS editing required:
+Through its characters, the novel explores **patriarchy, domestic abuse, mental health, emotional trauma, societal pressure, family honour, social judgement, injustice, and the double standards faced by both men and women**.
 
-| Replace this file | With |
-|---|---|
-| `images/author.jpg` | Your author portrait |
-| `images/dam-e-waris-cover.jpg` | The Dam-e-Waris book cover |
-| `images/review-01.jpg` … `review-06.jpg` | Screenshots of reader reviews (add/remove `<img>` tags in the "What Readers Say" section of `index.html` if you have more or fewer than 6) |
-| `pdf/dam-e-waris.pdf` | The real novel PDF |
+Every character carries a history of their own. Every silence has a reason, every decision has a consequence, and every relationship carries something that may not be visible on the surface.
 
-## Adding your Instagram and Pratilipi links
+As the past begins to collide with the present, buried truths gradually surface and seemingly separate stories begin to converge.
 
-Search each HTML file for `REPLACE_WITH_` and swap in your real URLs. These appear in:
-- The "Let's Connect" section and footer of `index.html`
-- The "Prefer Reading on Pratilipi?" and "Follow the Journey" sections and footer of `dam-e-waris.html`
+## ⏳ Two Timelines
 
-## Deploying to GitHub Pages
+The story moves between **past and present**, revealing its characters and their histories piece by piece.
 
-1. Create a new GitHub repository.
-2. Upload this entire folder's contents (keeping the same structure) to the repository root.
-3. In the repository, go to **Settings → Pages**, set the source branch (usually `main`) and folder (`/root`).
-4. Save — your site will be live at `https://<your-username>.github.io/<repo-name>/`.
+The past is not simply a backdrop. It is part of the mystery.
 
-No build step, bundler, or server is required — this is a plain static site.
+What happened before becomes essential to understanding what is happening now.
+
+## 🖋️ About the Author
+
+**Ali Raza Afzal** is a young Pakistani writer currently pursuing a degree in **Data Science**. While his academic world revolves around numbers, logic, and technology, his imagination has always found its way toward people, emotions, and stories.
+
+*Dam-e-Waris* is his **first novel and debut as a fiction writer**. His writing is rooted in an interest in human relationships, family dynamics, societal expectations, and the emotions that often remain hidden beneath everyday life.
+
+## 📚 Read the Novel
+
+The novel is being published **chapter by chapter**, allowing the story to unfold gradually.
+
+Visit the website to begin reading:
+
+**[Read Dam-e-Waris](https://your-website-link-here)**
+
+## 📁 Repository
+
+This repository contains the source files for the official *Dam-e-Waris* website, including:
+
+* Website pages and layout
+* Novel chapters
+* PDF files
+* Styling and design
+* Supporting web assets
+
+## ✨ Themes
+
+* Family & relationships
+* Inheritance & legacy
+* Patriarchy
+* Domestic abuse
+* Mental health
+* Emotional trauma
+* Societal pressure
+* Family honour
+* Social judgement
+* Gender-based double standards
+* Love & loss
+* Revenge
+* Secrets & consequences
+* Justice & injustice
+
+---
+
+### دَمِ وارث
+
+**لہو سے سینچے گئے تھے تعلقوں کے شجر،
+ثمر ملا تو فقط حسرتوں کے موسم کا**
